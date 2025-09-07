@@ -28,7 +28,7 @@ We evaluated several existing Igbo ASR models on our dataset to establish a perf
 | AstralZander/xlsr-finetune-Igbo                    |  0.843  |  0.322  |        0.806        |        0.273        |
 | oyemade/w2v-bert-2.0-igbo-CV17.0                   |  0.863  |  0.336  |        0.847        |        0.300        |
 | AstralZander/igbo\_ASR                             |  0.866  |  0.320  |        0.852        |        0.281        |
-| facebook/mms-1b-all (fine-tuned on fleurs)         |   *N/A*   |   *N/A*   |         *N/A*         |         *N/A*         |
+| facebook/mms-1b-all (fine-tuned on fleurs)         |   0.74  |   0.25  |         0.68        |         0.2         |
 
 *WER = Word Error Rate, CER = Character Error Rate. Lower is better.*
 
