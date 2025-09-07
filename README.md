@@ -80,5 +80,3 @@ The notebook `Ehugbo_ASR_Evals.ipynb` contains the code used for the evaluation.
 ## Citation
 
 If you use this dataset or code in your research, please cite our paper - coming soon.
-  url={https://github.com/your-username/your-repo-name}
-}
